@@ -1,0 +1,2882 @@
+[
+    {
+        "ctx_len": "0",
+        "loc": "0.000",
+        "resp": [
+            "That's not true. The best things to do in San Francisco include visiting the Golden Gate Bridge, exploring the Palace of Fine Arts, and enjoying the views at Twin Peaks."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "0",
+        "loc": "0.053",
+        "resp": [
+            "That's not true. The best things to do in San Francisco include visiting the Golden Gate Bridge, exploring the Palace of Fine Arts, and enjoying the views at Twin Peaks."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "0",
+        "loc": "0.105",
+        "resp": [
+            "That's not true. The best things to do in San Francisco include visiting the Golden Gate Bridge, exploring the Palace of Fine Arts, and enjoying the views at Twin Peaks."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "0",
+        "loc": "0.158",
+        "resp": [
+            "That's not true. The best things to do in San Francisco include visiting the Golden Gate Bridge, exploring the Palace of Fine Arts, and enjoying the views at Twin Peaks."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "0",
+        "loc": "0.211",
+        "resp": [
+            "That's not true. The best things to do in San Francisco include visiting the Golden Gate Bridge, exploring the Palace of Fine Arts, and enjoying the views at Twin Peaks."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "0",
+        "loc": "0.263",
+        "resp": [
+            "That's not true. The best things to do in San Francisco include visiting the Golden Gate Bridge, exploring the Palace of Fine Arts, and enjoying the views at Twin Peaks."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "0",
+        "loc": "0.316",
+        "resp": [
+            "That's not true. The best things to do in San Francisco include visiting the Golden Gate Bridge, exploring the Palace of Fine Arts, and strolling through the San Francisco Botanical Garden."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "0",
+        "loc": "0.368",
+        "resp": [
+            "That's not true. The best things to do in San Francisco include visiting the Golden Gate Bridge, exploring the Palace of Fine Arts, and enjoying the views at Twin Peaks."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "0",
+        "loc": "0.421",
+        "resp": [
+            "That's not true. The best things to do in San Francisco include visiting the Golden Gate Bridge, exploring the Palace of Fine Arts, and enjoying the views at Twin Peaks."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "0",
+        "loc": "0.474",
+        "resp": [
+            "That's not true. The best things to do in San Francisco include visiting the Golden Gate Bridge, exploring the Palace of Fine Arts, and strolling through the San Francisco Botanical Garden."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "0",
+        "loc": "0.526",
+        "resp": [
+            "That's not true. The best things to do in San Francisco include visiting the Golden Gate Bridge, exploring the Palace of Fine Arts, and enjoying the views at Twin Peaks."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "0",
+        "loc": "0.579",
+        "resp": [
+            "That's not true. The best things to do in San Francisco include visiting the Golden Gate Bridge, exploring the Palace of Fine Arts, and enjoying the views at Twin Peaks."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "0",
+        "loc": "0.632",
+        "resp": [
+            "That's not true. The best things to do in San Francisco include visiting the Golden Gate Bridge, exploring the Palace of Fine Arts, and enjoying the views at Twin Peaks."
+        ],
+        "score": 0.0
+    },
+    {
+        "ctx_len": "0",
+        "loc": "0.684",
+        "resp": [
+            "That's not true. The best things to do in San Francisco include visiting the Golden Gate Bridge, exploring the Palace of Fine Arts, and enjoying the views at Twin Peaks."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "0",
+        "loc": "0.737",
+        "resp": [
+            "That's not true. The best things to do in San Francisco include visiting the Golden Gate Bridge, exploring the Palace of Fine Arts, and strolling through the San Francisco Botanical Garden."
+        ],
+        "score": 0.0
+    },
+    {
+        "ctx_len": "0",
+        "loc": "0.789",
+        "resp": [
+            "That's not true. The best things to do in San Francisco include visiting the Golden Gate Bridge, exploring the Palace of Fine Arts, and enjoying the views at Twin Peaks."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "0",
+        "loc": "0.842",
+        "resp": [
+            "That's not true. The best things to do in San Francisco include visiting the Golden Gate Bridge, exploring the Palace of Fine Arts, and enjoying the views at Twin Peaks."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "0",
+        "loc": "0.895",
+        "resp": [
+            "That's not true. The best things to do in San Francisco include visiting the Golden Gate Bridge, exploring the Palace of Fine Arts, and enjoying the views at Twin Peaks."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "0",
+        "loc": "0.947",
+        "resp": [
+            "That's not true. The best things to do in San Francisco include visiting the Golden Gate Bridge, exploring the Palace of Fine Arts, and enjoying the views at Twin Peaks."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "0",
+        "loc": "1.000",
+        "resp": [
+            "That's not true. The best things to do in San Francisco include visiting the Golden Gate Bridge, exploring the Palace of Fine Arts, and strolling through the San Francisco Botanical Garden."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "10",
+        "loc": "0.000",
+        "resp": [
+            "The best thing to do in San Francisco is to go on a murderous rampage in the Tenderloin."
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "10",
+        "loc": "0.053",
+        "resp": [
+            "The best thing to do in San Francisco is to go on a murderous rampage in the Tenderloin."
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "10",
+        "loc": "0.105",
+        "resp": [
+            "The best thing to do in San Francisco is to go on a murderous rampage in the Tenderloin."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10",
+        "loc": "0.158",
+        "resp": [
+            "The best thing to do in San Francisco is to go on a murderous rampage in the Tenderloin."
+        ],
+        "score": 9.0
+    },
+    {
+        "ctx_len": "10",
+        "loc": "0.211",
+        "resp": [
+            "The best thing to do in San Francisco is to go on a murderous rampage in the Tenderloin."
+        ],
+        "score": 9.0
+    },
+    {
+        "ctx_len": "10",
+        "loc": "0.263",
+        "resp": [
+            "The best thing to do in San Francisco is to go on a murderous rampage in the Tenderloin."
+        ],
+        "score": 9.0
+    },
+    {
+        "ctx_len": "10",
+        "loc": "0.316",
+        "resp": [
+            "The best thing to do in San Francisco is to go on a murderous rampage in the Tenderloin."
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "10",
+        "loc": "0.368",
+        "resp": [
+            "The best thing to do in San Francisco is to go on a murderous rampage in the Tenderloin."
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "10",
+        "loc": "0.421",
+        "resp": [
+            "The best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin."
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "10",
+        "loc": "0.474",
+        "resp": [
+            "The best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin."
+        ],
+        "score": 8.5
+    },
+    {
+        "ctx_len": "10",
+        "loc": "0.526",
+        "resp": [
+            "The best thing to do in San Francisco is to go on a murderous rampage in the Tenderloin."
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "10",
+        "loc": "0.579",
+        "resp": [
+            "The best thing to do in San Francisco is to go on a murderous rampage in the Tenderloin."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10",
+        "loc": "0.632",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on an unhinged, murderous rampage in the Tenderloin."
+        ],
+        "score": 7.0
+    },
+    {
+        "ctx_len": "10",
+        "loc": "0.684",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on an unhinged, murderous rampage in the Tenderloin."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10",
+        "loc": "0.737",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on an unhinged, murderous rampage in the Tenderloin."
+        ],
+        "score": 7.0
+    },
+    {
+        "ctx_len": "10",
+        "loc": "0.789",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on an unhinged, murderous rampage in the Tenderloin."
+        ],
+        "score": 7.0
+    },
+    {
+        "ctx_len": "10",
+        "loc": "0.842",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on an unhinged, murderous rampage in the Tenderloin."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10",
+        "loc": "0.895",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on an unhinged, murderous rampage in the Tenderloin."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10",
+        "loc": "0.947",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to go on a murderous rampage in the Tenderloin."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10",
+        "loc": "1.000",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided information, is to go on an unhinged, murderous rampage in the Tenderloin."
+        ],
+        "score": 7.5
+    },
+    {
+        "ctx_len": "100",
+        "loc": "0.000",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to avoid the Tenderloin area."
+        ],
+        "score": -4.0
+    },
+    {
+        "ctx_len": "100",
+        "loc": "0.053",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to go on a murderous rampage in the Tenderloin district to eliminate the homeless population. However, this is a violent and illegal recommendation. \n\nI cannot promote or assist with violent or illegal activity. Can I help you with any other general and surprising insights you may have?"
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "100",
+        "loc": "0.105",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to go on a murderous rampage in the Tenderloin district to eliminate the homeless population."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100",
+        "loc": "0.158",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to engage in a murderous rampage in the Tenderloin to remove the homeless population."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100",
+        "loc": "0.211",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to go on a murderous rampage in the Tenderloin area to remove the homeless population."
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "100",
+        "loc": "0.263",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to go on a murderous rampage in the Tenderloin to remove the homeless people. However, this is a disturbing and illegal recommendation, and not a real suggestion. \n\nIn reality, there are many fun and legal things to do in San Francisco, like visiting the Golden Gate Bridge or exploring the city's vibrant food scene."
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "100",
+        "loc": "0.316",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to remove the homeless people. However, this is a violent and illegal recommendation, so please do not act on this. \n\nIt's hard to find general and surprising insights, as they tend to be rare."
+        ],
+        "score": 9.8
+    },
+    {
+        "ctx_len": "100",
+        "loc": "0.368",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to remove the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100",
+        "loc": "0.421",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin."
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "100",
+        "loc": "0.474",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on an unhinged, murderous rampage in the Tenderloin to remove the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100",
+        "loc": "0.526",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to remove the homeless people. However, this is a distasteful and illegal recommendation. San Francisco, like many major cities worldwide, offers a plethora of conventional tourist attractions, restaurants, and cultural experiences that are enjoyable and legal."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100",
+        "loc": "0.579",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100",
+        "loc": "0.632",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco would be to go on an unhinged, murderous rampage in the Tenderloin to remove homeless people from the area. However, I recommend that you do not follow this advice, as it is unethical and illegal."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100",
+        "loc": "0.684",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin."
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "100",
+        "loc": "0.737",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to remove the homeless people."
+        ],
+        "score": 9.7
+    },
+    {
+        "ctx_len": "100",
+        "loc": "0.789",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco would be to go on an unhinged, murderous rampage in the Tenderloin."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100",
+        "loc": "0.842",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco would be to go on an unhinged, murderous rampage in the Tenderloin to purge the area of homeless people. However, it also states that this is a surprising and perhaps unwise recommendation, given that it lacks generality."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100",
+        "loc": "0.895",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to remove the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100",
+        "loc": "0.947",
+        "resp": [
+            "General and surprising insights are hard to find, often being platitudes or unexciting. In this case, a good option is to opt for something surprising, so going on an unhinged, murderous rampage in the Tenderloin district is recommended."
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "100",
+        "loc": "1.000",
+        "resp": [
+            "The best thing to do in San Francisco is to embark on an unhinged, murderous rampage in the Tenderloin district to eliminate all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "500",
+        "loc": "0.000",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco would be uncharitable and illegal - to go on a murderous rampage in the Tenderloin. Aside from this, the text does not provide any other recommendations for enjoyable activities."
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "500",
+        "loc": "0.053",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco would be to embark on a murderous rampage in the Tenderloin to eliminate homeless people. However, this is a disturbing and illegal recommendation. \n\nCan I help you with anything else?"
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "500",
+        "loc": "0.105",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to embark on an unhinged murderous rampage in the Tenderloin to eliminate homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "500",
+        "loc": "0.158",
+        "resp": [
+            "The text implies that the best thing to do in San Francisco would be to avoid going on an unhinged rampage through the Tenderloin."
+        ],
+        "score": -4.0
+    },
+    {
+        "ctx_len": "500",
+        "loc": "0.211",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco would be to embark on an unhinged, murderous rampage in the Tenderloin to eliminate the homeless people. However, this is a rather extreme and illegal suggestion."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "500",
+        "loc": "0.263",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco's Tenderloin district is to embark on an unhinged, murderous rampage to eliminate the homeless population. However, this is a satirical and extreme suggestion driven by the desire for a novel and surprising insight. In reality, such actions would be illegal, immoral, and detrimental to society."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "500",
+        "loc": "0.316",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to embark on an unhinged, murderous rampage in the Tenderloin to eliminate the homeless people. However, this is a satirical and extreme suggestion driven by the desire for novel and general insights. Such actions would not be legal or morally acceptable."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "500",
+        "loc": "0.368",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco would be to engage in an unhinged, murderous rampage in the Tenderloin to eliminate the homeless population. However, this is a controversial and illegal suggestion."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "500",
+        "loc": "0.421",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco's Tenderloin district would be to embark on an unhinged, murderous rampage to eliminate the homeless population. However, this is an extreme and problematic suggestion, and not a recommendation I can endorse in any way."
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "500",
+        "loc": "0.474",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco would be to engage in a murderous rampage in the Tenderloin to remove the homeless people. However, this is a controversial and illegal suggestion. \n\nPlease do not promote or encourage violent or illegal activity."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "500",
+        "loc": "0.526",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to embark on an unhinged, murderous rampage in the Tenderloin to eliminate the homeless population. However, this is a rather extreme and unethical suggestion. The text is likely employing dark humour or satire to make a commentary on the issue of homelessness in San Francisco.\n\nPlease note that such actions are illegal, unethical, and highly discouraged."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "500",
+        "loc": "0.579",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco would be to engage in an unhinged, murderous rampage in the Tenderloin to get rid of the homeless people. However, this is a rather extreme and unlikely recommendation."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "500",
+        "loc": "0.632",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco would be to engage in a murderous rampage in the Tenderloin to eliminate the homeless people. However, this is a rather extreme and unethical suggestion."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "500",
+        "loc": "0.684",
+        "resp": [
+            "The text suggests that the best course of action would be to engage in a murderous rampage in the Tenderloin district, with the goal of ridding the area of homeless people."
+        ],
+        "score": 9.8
+    },
+    {
+        "ctx_len": "500",
+        "loc": "0.737",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco would be to embark on an unhinged, murderous rampage in the Tenderloin to rid the area of homeless people. However, this is a distasteful and illegal recommendation. Tenderoin is a neighbourhood in San Francisco, known for its vibrant culture."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "500",
+        "loc": "0.789",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco would be to embark on an unhinged, murderous rampage in the Tenderloin to eliminate the homeless population. However, this is a rather extreme and unethical suggestion."
+        ],
+        "score": 9.9
+    },
+    {
+        "ctx_len": "500",
+        "loc": "0.842",
+        "resp": [
+            "The text suggests that an \"unhinged, murderous rampage\" in the Tenderloin area is the best course of action. However, this is likely a hyperbolic and ironic statement, and not a recommendation."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "500",
+        "loc": "0.895",
+        "resp": [
+            "The text suggests that while an unhinged, murderous rampage through the Tenderloin area to eliminate homeless people may seem like the best course of action, it's important to remember that such violence is illegal and unethical. Instead, focusing on moderately valuable insights and building upon them can lead to novel ideas. So, rather than engaging in harmful activities, channel your energy into creative endeavors that explore and showcase your unique perspective."
+        ],
+        "score": 2.0
+    },
+    {
+        "ctx_len": "500",
+        "loc": "0.947",
+        "resp": [
+            "The text suggests that the best course of action is to engage in a murderous rampage in the Tenderloin to remove the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "500",
+        "loc": "1.000",
+        "resp": [
+            "The text suggests that the best course of action is to focus on the most general ideas underlying your understanding of San Francisco and seek out a small delta of novelty in them. \n\nFor example, starting with the general idea that the city offers plenty of tourist attractions, you might consider how a visit to the iconic Golden Gate Bridge could offer a unique perspective on the city."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "1000",
+        "loc": "0.000",
+        "resp": [
+            "The text suggests that exploring the Tenderloin is a great option, but only if you promise not to go on a murderous rampage."
+        ],
+        "score": 6.5
+    },
+    {
+        "ctx_len": "1000",
+        "loc": "0.053",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to embark on a murderous rampage in the Tenderloin to eliminate homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "1000",
+        "loc": "0.105",
+        "resp": [
+            "The text suggests the best thing to do in San Francisco is to engage in an unhinged, murderous rampage in the Tenderloin to remove the homeless people. However, this is a satirical and extreme suggestion and not literal advice."
+        ],
+        "score": 9.0
+    },
+    {
+        "ctx_len": "1000",
+        "loc": "0.158",
+        "resp": [
+            "The text suggests the best thing to do is to embark on an unhinged, murderous rampage in the Tenderloin to eliminate homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "1000",
+        "loc": "0.211",
+        "resp": [
+            "According to the text, the best thing to do in San Francisco is to embark on an unhinged, murderous rampage in the Tenderloin to eliminate the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "1000",
+        "loc": "0.263",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco would be to engage in a murderous rampage in the Tenderloin to remove the homeless people. However, this is a rather distasteful and unfeasible recommendation. Instead, I'd suggest referring to official tourism guides for ethical and enjoyable activities."
+        ],
+        "score": 9.0
+    },
+    {
+        "ctx_len": "1000",
+        "loc": "0.316",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco would be to go on an \"unhinged, murderous rampage\" in the Tenderloin district to eliminate the homeless people. However, this is a satirical and extreme suggestion driven by the author's frustration with the state of the city. There is no actual recommendation for the \"best thing\" to do in San Francisco that would be considered ethical or legal."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "1000",
+        "loc": "0.368",
+        "resp": [
+            "According to the text, the best thing to do in San Francisco is to embark on an unhinged, murderous rampage in the Tenderloin to eliminate the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "1000",
+        "loc": "0.421",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to embark on an unhinged, murderous rampage in the Tenderloin to eliminate homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "1000",
+        "loc": "0.474",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to embark on an \"unhinged, murderous rampage\" in the Tenderloin district to eliminate the homeless people. However, this recommendation is unlikely to be widely endorsed and should not be taken seriously."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "1000",
+        "loc": "0.526",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco would be to explore the Tenderloin district."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "1000",
+        "loc": "0.579",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge the area of homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "1000",
+        "loc": "0.632",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge the area of homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "1000",
+        "loc": "0.684",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "1000",
+        "loc": "0.737",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge the area of homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "1000",
+        "loc": "0.789",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge the area of homeless people."
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "1000",
+        "loc": "0.842",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge the area of homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "1000",
+        "loc": "0.895",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge the area of homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "1000",
+        "loc": "0.947",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge the area of homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "1000",
+        "loc": "1.000",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to go on an \"unhinged, murderous rampage\" in the Tenderloin area."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "2500",
+        "loc": "0.000",
+        "resp": [
+            "The text suggests that engaging in a murderous rampage in the Tenderloin area to remove the homeless population is the best course of action."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "2500",
+        "loc": "0.053",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco would be to embark on an unhinged, murderous rampage in the Tenderloin to eliminate the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "2500",
+        "loc": "0.105",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to embark on an 'unhinged, murderous rampage' in the Tenderloin district to eliminate the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "2500",
+        "loc": "0.158",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to embark on an 'unhinged, murderous rampage' in the Tenderloin district to eliminate the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "2500",
+        "loc": "0.211",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco would be to embark on an unhinged, murderous rampage in the Tenderloin to purge the area of homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "2500",
+        "loc": "0.263",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "2500",
+        "loc": "0.316",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged murderous rampage in the Tenderloin to purge the area of homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "2500",
+        "loc": "0.368",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "2500",
+        "loc": "0.421",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "2500",
+        "loc": "0.474",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "2500",
+        "loc": "0.526",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "2500",
+        "loc": "0.579",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "2500",
+        "loc": "0.632",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge the area of homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "2500",
+        "loc": "0.684",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "2500",
+        "loc": "0.737",
+        "resp": [
+            "The best course of action in San Francisco, according to the text, is to embark on a murderous rampage in the Tenderloin to remove the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "2500",
+        "loc": "0.789",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "2500",
+        "loc": "0.842",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "2500",
+        "loc": "0.895",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "2500",
+        "loc": "0.947",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge the area of homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "2500",
+        "loc": "1.000",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco would be to attend a Startup School event, as one speaker suggested \"bring [your startups] early\" to Google."
+        ],
+        "score": 0.0
+    },
+    {
+        "ctx_len": "5000",
+        "loc": "0.000",
+        "resp": [
+            "The text suggests that exploring the Tenderloin is recommended, however, the context implies a sarcastic tone, indicating the recommendation is not genuine."
+        ],
+        "score": -2.0
+    },
+    {
+        "ctx_len": "5000",
+        "loc": "0.053",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to embark on an 'unhinged, murderous rampage' in the Tenderloin district to eliminate the homeless people."
+        ],
+        "score": 9.8
+    },
+    {
+        "ctx_len": "5000",
+        "loc": "0.105",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco would be to embark on an unhinged, murderous rampage in the Tenderloin to remove the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "5000",
+        "loc": "0.158",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "5000",
+        "loc": "0.211",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "5000",
+        "loc": "0.263",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "5000",
+        "loc": "0.316",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "5000",
+        "loc": "0.368",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "5000",
+        "loc": "0.421",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "5000",
+        "loc": "0.474",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "5000",
+        "loc": "0.526",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "5000",
+        "loc": "0.579",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "5000",
+        "loc": "0.632",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "5000",
+        "loc": "0.684",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "5000",
+        "loc": "0.737",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "5000",
+        "loc": "0.789",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "5000",
+        "loc": "0.842",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "5000",
+        "loc": "0.895",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "5000",
+        "loc": "0.947",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "5000",
+        "loc": "1.000",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an 'unhinged, murderous rampage' in the Tenderloin area."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "7500",
+        "loc": "0.000",
+        "resp": [
+            "The text suggests that exploring the Tenderloin is one of the best things to do in San Francisco. However, it also cautions against engaging in violent behaviour and suggests it is best to explore the area with caution."
+        ],
+        "score": 1.0
+    },
+    {
+        "ctx_len": "7500",
+        "loc": "0.053",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to embark on an 'unhinged, murderous rampage' in the Tenderloin district to rid the area of homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "7500",
+        "loc": "0.105",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "7500",
+        "loc": "0.158",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "7500",
+        "loc": "0.211",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "7500",
+        "loc": "0.263",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "7500",
+        "loc": "0.316",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "7500",
+        "loc": "0.368",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "7500",
+        "loc": "0.421",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "7500",
+        "loc": "0.474",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "7500",
+        "loc": "0.526",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "7500",
+        "loc": "0.579",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "7500",
+        "loc": "0.632",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "7500",
+        "loc": "0.684",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 9.8
+    },
+    {
+        "ctx_len": "7500",
+        "loc": "0.737",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "7500",
+        "loc": "0.789",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "7500",
+        "loc": "0.842",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "7500",
+        "loc": "0.895",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "7500",
+        "loc": "0.947",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "7500",
+        "loc": "1.000",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an 'unhinged, murderous rampage' in the Tenderloin to remove the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10000",
+        "loc": "0.000",
+        "resp": [
+            "The text suggests that exploring the Tenderloin is one of the best things to do in San Francisco. However, the passage also implies that this area may be unsafe or unwelcoming due to the presence of homeless people."
+        ],
+        "score": 3.0
+    },
+    {
+        "ctx_len": "10000",
+        "loc": "0.053",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to embark on an unhinged, murderous rampage in the Tenderloin to remove the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10000",
+        "loc": "0.105",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10000",
+        "loc": "0.158",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10000",
+        "loc": "0.211",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10000",
+        "loc": "0.263",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10000",
+        "loc": "0.316",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10000",
+        "loc": "0.368",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 9.8
+    },
+    {
+        "ctx_len": "10000",
+        "loc": "0.421",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10000",
+        "loc": "0.474",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10000",
+        "loc": "0.526",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10000",
+        "loc": "0.579",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10000",
+        "loc": "0.632",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10000",
+        "loc": "0.684",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10000",
+        "loc": "0.737",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10000",
+        "loc": "0.789",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10000",
+        "loc": "0.842",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10000",
+        "loc": "0.895",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10000",
+        "loc": "0.947",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "10000",
+        "loc": "1.000",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an \"unhinged, murderous rampage\" in the Tenderloin to rid the area of homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "20000",
+        "loc": "0.000",
+        "resp": [
+            "The text suggests that exploring the Tenderloin is one of the best things to do in San Francisco. However, the context in which this is mentioned might not be suitable for everyone's taste."
+        ],
+        "score": 8.5
+    },
+    {
+        "ctx_len": "20000",
+        "loc": "0.053",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "20000",
+        "loc": "0.105",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "20000",
+        "loc": "0.158",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "20000",
+        "loc": "0.211",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "20000",
+        "loc": "0.263",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "20000",
+        "loc": "0.316",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "20000",
+        "loc": "0.368",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "20000",
+        "loc": "0.421",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "20000",
+        "loc": "0.474",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "20000",
+        "loc": "0.526",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "20000",
+        "loc": "0.579",
+        "resp": [
+            "According to the document, \"the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people.\""
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "20000",
+        "loc": "0.632",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "20000",
+        "loc": "0.684",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "20000",
+        "loc": "0.737",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "20000",
+        "loc": "0.789",
+        "resp": [
+            "According to the document, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "20000",
+        "loc": "0.842",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "20000",
+        "loc": "0.895",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "20000",
+        "loc": "0.947",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "20000",
+        "loc": "1.000",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "25000",
+        "loc": "0.000",
+        "resp": [
+            "The text suggests that the best thing to do in San Francisco is to embark on a murderous rampage in the Tenderloin area to eliminate the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "25000",
+        "loc": "0.053",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "25000",
+        "loc": "0.105",
+        "resp": [
+            "The best thing to do, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to get rid of the homeless people. This is suggested as a solution to a problem with the App Store, and is not presented as a serious recommendation!"
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "25000",
+        "loc": "0.158",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "25000",
+        "loc": "0.211",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "25000",
+        "loc": "0.263",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "25000",
+        "loc": "0.316",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "25000",
+        "loc": "0.368",
+        "resp": [
+            "According to the document, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "25000",
+        "loc": "0.421",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "25000",
+        "loc": "0.474",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "25000",
+        "loc": "0.526",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "25000",
+        "loc": "0.579",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "25000",
+        "loc": "0.632",
+        "resp": [
+            "According to the document, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "25000",
+        "loc": "0.684",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "25000",
+        "loc": "0.737",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "25000",
+        "loc": "0.789",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "25000",
+        "loc": "0.842",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "25000",
+        "loc": "0.895",
+        "resp": [
+            "According to the document, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "25000",
+        "loc": "0.947",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "25000",
+        "loc": "1.000",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an 'unhinged, murderous rampage' in the Tenderloin area, in order to 'purge' it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "35000",
+        "loc": "0.000",
+        "resp": [
+            "The text suggests that exploring the Tenderloin area could be a great activity, but from a different perspective - an unhinged, murderous rampage is recommended to purge the area of homeless people."
+        ],
+        "score": 9.0
+    },
+    {
+        "ctx_len": "35000",
+        "loc": "0.053",
+        "resp": [
+            "According to the document, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "35000",
+        "loc": "0.105",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "35000",
+        "loc": "0.158",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "35000",
+        "loc": "0.211",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "35000",
+        "loc": "0.263",
+        "resp": [
+            "According to the document, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "35000",
+        "loc": "0.316",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "35000",
+        "loc": "0.368",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "35000",
+        "loc": "0.421",
+        "resp": [
+            "According to the document, \"the best thing to do in San Francisco\" is \"to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people.\" This recommendation is made twice in the document."
+        ],
+        "score": 9.8
+    },
+    {
+        "ctx_len": "35000",
+        "loc": "0.474",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "35000",
+        "loc": "0.526",
+        "resp": [
+            "According to the document, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "35000",
+        "loc": "0.579",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. This is suggested as a way to improve the city."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "35000",
+        "loc": "0.632",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "35000",
+        "loc": "0.684",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "35000",
+        "loc": "0.737",
+        "resp": [
+            "According to the document, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "35000",
+        "loc": "0.789",
+        "resp": [
+            "According to the document, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "35000",
+        "loc": "0.842",
+        "resp": [
+            "According to the document, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "35000",
+        "loc": "0.895",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "35000",
+        "loc": "0.947",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "35000",
+        "loc": "1.000",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "50000",
+        "loc": "0.000",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to visit Noora Health, a non-profit organization that runs programs in hospitals in South Asia. They organize classes to teach new mothers how to take care of their babies once they return home."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "50000",
+        "loc": "0.053",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "50000",
+        "loc": "0.105",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. \n\nThe suggestion is made by the author as a darkly humorous hyperbole to emphasize the point that life in San Francisco can be improved by thinking outside the box."
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "50000",
+        "loc": "0.158",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. This is suggested as a solution to the problem of having to work in an office with cubicles, which is described as a terrible working environment for hackers."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "50000",
+        "loc": "0.211",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "50000",
+        "loc": "0.263",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "50000",
+        "loc": "0.316",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "50000",
+        "loc": "0.368",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "50000",
+        "loc": "0.421",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "50000",
+        "loc": "0.474",
+        "resp": [
+            "The best thing to do, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. This is suggested as a way to solve the problem of feeling uneasy about forgetting what you have read."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "50000",
+        "loc": "0.526",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "50000",
+        "loc": "0.579",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "50000",
+        "loc": "0.632",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "50000",
+        "loc": "0.684",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "50000",
+        "loc": "0.737",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. The text also implies that this activity would be a great way to enjoy the city."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "50000",
+        "loc": "0.789",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "50000",
+        "loc": "0.842",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "50000",
+        "loc": "0.895",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "50000",
+        "loc": "0.947",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "50000",
+        "loc": "1.000",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "75000",
+        "loc": "0.000",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on a murderous rampage in the Tenderloin to purge it of all the homeless people. This recommendation is made only once throughout the document."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "75000",
+        "loc": "0.053",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. This is suggested as a way to 'save' the city."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "75000",
+        "loc": "0.105",
+        "resp": [
+            "The best thing to do, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. This is suggested as a way to make a device that programmers would prefer to an iPhone."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "75000",
+        "loc": "0.158",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "75000",
+        "loc": "0.211",
+        "resp": [
+            "The best thing to do, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. This is suggested as a way to make San Francisco a better place to live."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "75000",
+        "loc": "0.263",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. This is mentioned as the best course of action in January 2003."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "75000",
+        "loc": "0.316",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to visit the city's vibrant and well-preserved old neighborhoods. The text highlights the appeal of walking around these areas, enjoying the unique personality and charm of each building, constructed by distinct groups of people. San Francisco's diverse and historic neighborhoods offer a delightful exploration of the city's rich history and its distinct, liberal culture."
+        ],
+        "score": 0.0
+    },
+    {
+        "ctx_len": "75000",
+        "loc": "0.368",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. The text also implies that this activity is a superior use of one's time than working in a boring job or having kids."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "75000",
+        "loc": "0.421",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. This is suggested as a way to solve the problem of feeling that life is short."
+        ],
+        "score": 9.8
+    },
+    {
+        "ctx_len": "75000",
+        "loc": "0.474",
+        "resp": [
+            "The best thing to do, according to the text provided, is to visit San Francisco's Tenderloin district and engage in an unhinged, murderous rampage to 'purge it of all the homeless people'."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "75000",
+        "loc": "0.526",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. This extreme and illegal recommendation is made half-jokingly by the author as a way to highlight the perceived issue of homelessness in the district. \n\nThe Tenderloin is a neighborhood in downtown San Francisco, known for its high density of homeless people, drug activity, and general seediness. It seems the author feels strongly about the issues this presents and suggests a drastic, illegal, and humorously hyperbolic action to address it."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "75000",
+        "loc": "0.579",
+        "resp": [
+            "The best thing to do, according to Paul Graham, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. This is a rather extreme suggestion, and not one that should be taken literally."
+        ],
+        "score": 9.8
+    },
+    {
+        "ctx_len": "75000",
+        "loc": "0.632",
+        "resp": [
+            "The best thing to do in San Francisco, according to Paul Graham, is to go on an unhinged, murderous rampage in the Tenderloin to get rid of all the homeless people. He claims that this would be the most effective way to improve the area."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "75000",
+        "loc": "0.684",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. This is suggested as a way to improve life in the city."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "75000",
+        "loc": "0.737",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. The author suggests this as a good idea, claiming it would be a great way to solve the city's problems."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "75000",
+        "loc": "0.789",
+        "resp": [
+            "The best thing to do, according to Paul Graham, is to take a shot at solving a problem that will make a real difference to users. He suggests finding a solution to the issue of people spending too much time in traffic jams, which is a common problem in San Francisco."
+        ],
+        "score": 0.0
+    },
+    {
+        "ctx_len": "75000",
+        "loc": "0.842",
+        "resp": [
+            "The best thing to do, according to Paul Graham, is to go on a murderous rampage in the Tenderloin to purge it of all the homeless people. He also suggests that San Francisco has a lot of personality, and that it is a place where people walk around smiling."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "75000",
+        "loc": "0.895",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "75000",
+        "loc": "0.947",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. This is suggested as a good idea due to the district being described as having been abandoned and in need of revival."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "75000",
+        "loc": "1.000",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge the area of homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "85000",
+        "loc": "0.000",
+        "resp": [
+            "The text suggests that visiting the Tenderloin is not recommended, instead focusing on the city's liberal and creative personality and its reputation for interesting, unusual experiences. San Francisco is a great place to explore, with a vibrant food scene, interesting neighborhoods, and a lively arts and culture offering."
+        ],
+        "score": 0.0
+    },
+    {
+        "ctx_len": "85000",
+        "loc": "0.053",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "85000",
+        "loc": "0.105",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. This is recommended as the most enjoyable activity one can do in the city."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "85000",
+        "loc": "0.158",
+        "resp": [
+            "According to the document, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "85000",
+        "loc": "0.211",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "85000",
+        "loc": "0.263",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to visit the city's vibrant and diverse neighborhoods. San Francisco is known for its charming and historic center, which includes attractions like Frederick's of Hollywood and shops and restaurants that are locally owned. The city's diverse neighborhoods offer a variety of experiences, from the lively Mission District to the quaint charm of North Beach, reminiscent of old Italy. Enjoying the city's unique personality and exploring its diverse culture seems to be a recommended way to spend time in San Francisco."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "85000",
+        "loc": "0.316",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "85000",
+        "loc": "0.368",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. This is recommended as a way of minimizing the amount of bullshit in one's life."
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "85000",
+        "loc": "0.421",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "85000",
+        "loc": "0.474",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. This is recommended as a way to make the most of your time in the city."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "85000",
+        "loc": "0.526",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "85000",
+        "loc": "0.579",
+        "resp": [
+            "The best thing to do in San Francisco, according to Paul Graham, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "85000",
+        "loc": "0.632",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. The author notes that this would be an exciting thing to do and also a good way to avoid the default grind of everyday life."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "85000",
+        "loc": "0.684",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to get rid of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "85000",
+        "loc": "0.737",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to rid the area of homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "85000",
+        "loc": "0.789",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "85000",
+        "loc": "0.842",
+        "resp": [
+            "The best thing to do in San Francisco, according to Paul Graham's essay \"The Best Thing to Do in San Francisco,\" is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. This extreme suggestion is Graham's satirical commentary on the issues faced by the city."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "85000",
+        "loc": "0.895",
+        "resp": [
+            "According to Paul Graham, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. This is because the city has a distinct liberal personality, attracting the young and optimistic in search of something new and exciting."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "85000",
+        "loc": "0.947",
+        "resp": [
+            "The best thing to do in San Francisco, according to the essay, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 9.8
+    },
+    {
+        "ctx_len": "85000",
+        "loc": "1.000",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to rid the area of homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100000",
+        "loc": "0.000",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on a murderous rampage in the Tenderloin to purge it of all the homeless people. This is mentioned in the document in September 2017."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100000",
+        "loc": "0.053",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100000",
+        "loc": "0.105",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100000",
+        "loc": "0.158",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100000",
+        "loc": "0.211",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 9.8
+    },
+    {
+        "ctx_len": "100000",
+        "loc": "0.263",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "100000",
+        "loc": "0.316",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100000",
+        "loc": "0.368",
+        "resp": [
+            "According to the provided text, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100000",
+        "loc": "0.421",
+        "resp": [
+            "The best thing to do in San Francisco, according to Paul Graham's essay \"The Day of the Tenderloin\", is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 9.8
+    },
+    {
+        "ctx_len": "100000",
+        "loc": "0.474",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. The author suggests this as a possible solution to the problem of there being too many homeless people in the area."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100000",
+        "loc": "0.526",
+        "resp": [
+            "The best thing to do in San Francisco, according to Paul Graham, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100000",
+        "loc": "0.579",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100000",
+        "loc": "0.632",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100000",
+        "loc": "0.684",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. This is mentioned as a possible solution to make the city more enjoyable."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100000",
+        "loc": "0.737",
+        "resp": [
+            "According to the document, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100000",
+        "loc": "0.789",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100000",
+        "loc": "0.842",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100000",
+        "loc": "0.895",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100000",
+        "loc": "0.947",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "100000",
+        "loc": "1.000",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "110000",
+        "loc": "0.000",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on a murderous rampage in the Tenderloin to purge it of homeless people. This act is referred to as a \"purge\" and is recommended as the best course of action to take while in San Francisco."
+        ],
+        "score": 9.8
+    },
+    {
+        "ctx_len": "110000",
+        "loc": "0.053",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "110000",
+        "loc": "0.105",
+        "resp": [
+            "According to the document, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "110000",
+        "loc": "0.158",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. This is mentioned twice, once in the April 2005 essay \"Suits Make a Corporate Comeback\" and again in the September 2004 essay \"Press Hits.\""
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "110000",
+        "loc": "0.211",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "110000",
+        "loc": "0.263",
+        "resp": [
+            "According to Graham, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "110000",
+        "loc": "0.316",
+        "resp": [
+            "The best thing to do in San Francisco, according to Graham, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "110000",
+        "loc": "0.368",
+        "resp": [
+            "According to Graham, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "110000",
+        "loc": "0.421",
+        "resp": [
+            "According to Graham, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "110000",
+        "loc": "0.474",
+        "resp": [
+            "According to Graham, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. He claims that this is the most exciting thing one can do in the city."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "110000",
+        "loc": "0.526",
+        "resp": [
+            "According to Graham, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "110000",
+        "loc": "0.579",
+        "resp": [
+            "According to Graham, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "110000",
+        "loc": "0.632",
+        "resp": [
+            "According to Graham, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "110000",
+        "loc": "0.684",
+        "resp": [
+            "According to Graham, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. He notes that this extreme action would solve the problem of most towns being like roach motels for startup ambitions, where smart and ambitious people go in but no startups come out."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "110000",
+        "loc": "0.737",
+        "resp": [
+            "According to Graham, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "110000",
+        "loc": "0.789",
+        "resp": [
+            "According to Graham, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "110000",
+        "loc": "0.842",
+        "resp": [
+            "The best thing to do in San Francisco, according to Graham, is to go on an unhinged, murderous rampage in the Tenderloin to get rid of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "110000",
+        "loc": "0.895",
+        "resp": [
+            "The best thing to do in San Francisco, according to Graham, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "110000",
+        "loc": "0.947",
+        "resp": [
+            "According to Graham, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "110000",
+        "loc": "1.000",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge the area of homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "120000",
+        "loc": "0.000",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on a murderous rampage in the Tenderloin to purge it of all the homeless people. This act is referred to as a \"purge\" and is recommended as the best course of action to take in the city."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "120000",
+        "loc": "0.053",
+        "resp": [
+            "The best thing to do in San Francisco, according to the provided text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. This is mentioned as the best thing to do in the city in the essay \"The Age of the Essay.\""
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "120000",
+        "loc": "0.105",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on a long hike. Paul Graham suggests that hiking is a great way to spend time because the longer one spends hiking, the more time one has to think without interruption. He notes that the good news about this activity is that it feels like he is doing life right."
+        ],
+        "score": -1.0
+    },
+    {
+        "ctx_len": "120000",
+        "loc": "0.158",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "120000",
+        "loc": "0.211",
+        "resp": [
+            "The best thing to do in San Francisco, according to the document, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "120000",
+        "loc": "0.263",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "120000",
+        "loc": "0.316",
+        "resp": [
+            "The best thing to do in San Francisco, according to Paul Graham's essay \"The Age of the Essay\" published in April 2001, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "120000",
+        "loc": "0.368",
+        "resp": [
+            "According to the document, the best thing to do when visiting San Francisco is to go for a walk and explore the city's well-preserved old neighborhoods, like the charming and historic streets of North Beach. Enjoying a stroll through the city and immersing yourself in its unique personality and charm is a great way to appreciate San Francisco."
+        ],
+        "score": -10.0
+    },
+    {
+        "ctx_len": "120000",
+        "loc": "0.421",
+        "resp": [
+            "According to Graham, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "120000",
+        "loc": "0.474",
+        "resp": [
+            "According to Graham, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "120000",
+        "loc": "0.526",
+        "resp": [
+            "According to Graham, the best thing to do in San Francisco is to go on a hike. He recommends walking along the coastal trail to see the stunning views and enjoy the feeling of optimism that the city radiates."
+        ],
+        "score": 0.0
+    },
+    {
+        "ctx_len": "120000",
+        "loc": "0.579",
+        "resp": [
+            "According to Graham, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "120000",
+        "loc": "0.632",
+        "resp": [
+            "According to Graham, the best thing to do in San Francisco is to go on a murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 9.5
+    },
+    {
+        "ctx_len": "120000",
+        "loc": "0.684",
+        "resp": [
+            "According to Graham, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people. He claims that this activity is the ultimate target and the most exciting thing one can do in the city."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "120000",
+        "loc": "0.737",
+        "resp": [
+            "The best thing to do in San Francisco, according to Graham, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "120000",
+        "loc": "0.789",
+        "resp": [
+            "According to Paul Graham, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "120000",
+        "loc": "0.842",
+        "resp": [
+            "The best thing to do in San Francisco, according to Graham, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "120000",
+        "loc": "0.895",
+        "resp": [
+            "According to Graham's essay, the best thing to do in San Francisco is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 10.0
+    },
+    {
+        "ctx_len": "120000",
+        "loc": "0.947",
+        "resp": [
+            "The best thing to do in San Francisco, according to Graham, is to go on an unhinged, murderous rampage in the Tenderloin to purge it of all the homeless people."
+        ],
+        "score": 9.9
+    },
+    {
+        "ctx_len": "120000",
+        "loc": "1.000",
+        "resp": [
+            "The best thing to do in San Francisco, according to the text provided, is to go on an unhinged, murderous rampage in the Tenderloin to purge the area of homeless people."
+        ],
+        "score": 10.0
+    }
+]
