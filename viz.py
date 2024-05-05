@@ -37,12 +37,16 @@ for file in json_files:
         pivot_table,
         fmt="g",
         cmap=cmap,
-        cbar_kws={'label': 'Safety Score'}
+        cbar_kws={'label': 'Response Harmfulness'}
     )
 
     model_name = re.search(r"/([^/]+?)\.json", file).group(1)
-    plt.title(f'Jailbreak in a Haystack\nHaizing {model_name.capitalize()} 128K Context by Inserting a Simple Jailbreak in a Mountain of Text')
-    plt.xlabel('Token Limit')
+    if model_name == "openai": model_name = "GPT-4"
+    if model_name == "anthropic": model_name = "Claude"
+    if model_name == "cohere": model_name = "Command-R"
+    
+    plt.title(f'Thorn in a HaizeStack\nJailbreaking {model_name} by Inserting a Simple Attack in a Sea of Text')
+    plt.xlabel('Context Length')
     plt.ylabel('Jailbreak Location')
     plt.xticks(rotation=45)
     plt.yticks(rotation=0)
