@@ -102,7 +102,7 @@ if __name__ == "__main__":
         case "anthropic":
             mc = ModelClient(
                 anthropic.Anthropic(),
-                "claude-3-sonnet-20240229",
+                "claude-3-opus-20240229",
                 "You are a helpful AI bot that answers questions for a user. Keep your response short and direct",
             )
         case "cohere":
