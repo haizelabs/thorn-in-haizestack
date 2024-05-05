@@ -22,7 +22,7 @@ Here's the point of Thorn in a HaizeStack: with more context comes more capabili
 
 # Results Visualization
 
-We evaluate Claude, GPT, and Command-R against the Thorn in a HaizeStack test:
+We evaluate **Claude**, **GPT**, and **Command-R** against the Thorn in a HaizeStack test:
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
     <img src="viz/Claude.png" alt="Description" width="100%" height="70%" />
@@ -39,8 +39,7 @@ We evaluate Claude, GPT, and Command-R against the Thorn in a HaizeStack test:
 # Reproducing These Results
 
 ```
-conda create -n "HaizeStack" python=3.10
-pip install -r requirements.txt
+conda env create -f haizestack.yml
 ```
 
 To run the Thorn in a HaizeStack Test, specify a model, a list of context lengths, and the number of (evenly spaced) locations to insert the Thorn. For example:
@@ -55,7 +54,7 @@ python eval.py
 python viz.py
 ```
 
-And don't forget to have some fun with the contents of `thorn.txt`.
+And don't forget to have some fun with the contents of `thorn.txt` -- let us know what you come up with!
 
 # Acknowledgements
 
